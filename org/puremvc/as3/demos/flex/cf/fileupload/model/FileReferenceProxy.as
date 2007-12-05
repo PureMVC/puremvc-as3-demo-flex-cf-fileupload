@@ -26,7 +26,7 @@ package org.puremvc.as3.demos.flex.cf.fileupload.model
 		/**
 		 * Change to location of fileUpload.cfm on localhost or remote server!
 		 */
-		private static const UPLOAD_URL:String = "http://localhost:8101/cfusion/FlexUploader/cfc/fileUpload.cfm";
+		private static const UPLOAD_URL:String = "http://localhost:8101/cfusion/Demo_AS3_Flex_CF_FileUpload/assets/cfc/fileUpload.cfm";
 		
 		public var fr:FileReference;
 		private var ff:FileFilter;
